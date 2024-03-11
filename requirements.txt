@@ -3,3 +3,4 @@ pandas== 2.1.4
 psycopg2-binary == 2.9.9
 sqlalchemy == 1.4.52
 sqlalchemy-redshift == 0.8.14
+python-dotenv == 0.21.0
